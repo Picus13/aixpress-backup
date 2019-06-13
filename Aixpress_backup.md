@@ -24,3 +24,28 @@ _color: #fff
 
 ---
 
+<!--
+_backgroundColor: #123
+_color: #fff
+-->
+
+Pour pouvoir restaurer après :
+
+* Mise à jour qui plante 
+* Erreur sur un de lors d'une modification de fichier
+* Piratage du site
+
+---
+
+<!--
+_backgroundColor: #123
+_color: #fff
+-->
+
+### Ce qui vous apporte :
+
+* Sérénité & paix intérieur
+* Ca rassure vos prospects/clientéle
+* 
+
+---
