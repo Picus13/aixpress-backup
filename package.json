@@ -1,0 +1,10 @@
+{
+  "name": "aixpress-backup",
+  "version": "1.0.0",
+  "main": "aixpress_backup.md",
+  "repository": "https://github.com/Picus13/aixpress-backup.git",
+  "license": "WTFPL",
+  "devDependencies": {
+    "@marp-team/marp-cli": "^0.10.0"
+  }
+}

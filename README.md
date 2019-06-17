@@ -10,10 +10,11 @@ Introduction à la sauvegarde sur WordPress et à l'outil WP Tiger de [o2switch]
 ### Requis :
 
 * Node.js >= 8.9.0
+* Yarn >= 1.16.0
 
-### Recette pour envoyer la présenation avec le mode serveur de Marp
+### Recette pour envoyer la présentation avec le mode serveur de Marp
 1. Cloner le dépot
-2. Dans un terminal lancer un `npm install` dans le dossier préalablement cloné
+2. Dans un terminal lancer un `yarn install` dans le dossier préalablement cloné
 3. Envoyer la commande suivante pour lancer `marp` : `npx marp -s ./`
 4. Sur votre navigateur favori, rendez sur l'url suivante : *http://localhost:8080*
 5. Enjoy
