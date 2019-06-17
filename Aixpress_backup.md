@@ -31,10 +31,10 @@ _color: #fff
 
 ### Pour pouvoir restaurer après :
 
-* Mise à jour qui plante 
+* Une mise à jour qui plante 
 * Une mauvaise manipulation
-* Piratage du site
-* Hébergeur plus disponible
+* Un Piratage du site
+* L'hébergeur plus disponible
 * ...
 ---
 
@@ -94,7 +94,6 @@ _color: #fff
 
 ---
 
-
 <!--
 _backgroundColor: #123
 _color: #fff
@@ -110,13 +109,12 @@ _color: #fff
 -->
 
 ### Les + recommandés :
-* Sauvagarde régulieres  *1 sauvegarde quotidienne minimum*
+* Sauvagarde régulieres  *à adapter en fonction de la nature du site*
 * Stockage multiple :
-    * En local sur votre machine (attention à la panne)
+    * En local sur votre machine *attention à la panne*
     * Sur un stockage à chaud (Drive/Cloud)
     * Stockage à froid (Disque dur extene, Carte SD) *Utile pour l'archivage*
     
-
 ---
 
 <!--
@@ -125,5 +123,40 @@ _color: #fff
 -->
 
 ### Combien de temps garder les sauvegardes :
+* Le plus longtemps possible
+* Selon ancienneté et nature du site, une sauvegarde mensuelle peût-être suffisante
 
 ---
+
+<!--
+_backgroundColor: #123
+_color: #fff
+-->
+
+## <!--fit--> Conclusion
+
+---
+
+<!--
+_backgroundColor: #123
+_color: #fff
+-->
+
+### Recette de la parfaite sauvegarde :
+* Automatisé : *Un script ou une extension fait le job pour vous*
+* Stockage externe : *vos sauvegardes sont toujours accessibles*
+* *Facultatif* : Un chiffrement peut-ête appliqué pour améliorer la sécurité de vos sauvegardes
+
+    
+---
+## Merci de votre attention
+
+Un peu de lecture :
+* [Un article de Bruno Tritsch](https://brunotritsch.fr/bonnes-pratiques-wordpress-les-sauvegardes-sont-vos-amies/)
+* [Choix d'extensions de sauvegarde par WP Marmite](https://wpmarmite.com/sauvegarder-wordpress/)
+--
+
+* [Dépôt de cette présentation](https://github.com/Picus13/aixpress-backup)
+License : [WTFPL](https://choosealicense.com/licenses/wtfpl/)
+
+![bg right 50%](./undraw_profile.png)
