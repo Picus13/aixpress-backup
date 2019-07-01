@@ -55,4 +55,4 @@ _color: #fff
 * [Dépôt de cette présentation](https://github.com/Picus13/aixpress-backup)
 License : [WTFPL](https://choosealicense.com/licenses/wtfpl/)
 
-![bg right 50%](./undraw_profile.png)
+![bg right 50%](asset/undraw_profile.png)
