@@ -40,3 +40,19 @@ _color: #fff
 * Gestion du SSL
 * Créer une pré-production & Actions avancées sur la BDD
 ---
+
+<!--
+_backgroundColor: #123
+_color: #fff
+-->
+
+## <!--fit--> Démo !
+
+---
+## Crédits
+
+* [Doc de WPTiger](https://faq.o2switch.fr/hebergement-mutualise/tutoriels-cpanel/wptiger)
+* [Dépôt de cette présentation](https://github.com/Picus13/aixpress-backup)
+License : [WTFPL](https://choosealicense.com/licenses/wtfpl/)
+
+![bg right 50%](./undraw_profile.png)
