@@ -46,7 +46,7 @@ _color: #fff
 ### Ce qui vous apporte :
 
 * Sérénité & paix intérieur
-* Ca rassure vos prospects/clientéle
+* Ça rassure vos prospects/clientèle
 * Pas de stress cet été
 
 ---
@@ -86,7 +86,7 @@ _backgroundColor: #123
 _color: #fff
 -->
 
-* Via FTP (long et fastideux si plusieurs site)
+* Via FTP (long et fastidieux si plusieurs sites)
 * Avec une extension WP 
 * Un service tiers
 * Via la ligne de commande
@@ -109,11 +109,11 @@ _color: #fff
 -->
 
 ### Les + recommandés :
-* Sauvagarde régulieres  *à adapter en fonction de la nature du site*
+* Sauvagardes régulières  *à adapter en fonction de la nature du site*
 * Stockage multiple :
     * En local sur votre machine *attention à la panne*
     * Sur un stockage à chaud (Drive/Cloud)
-    * Stockage à froid (Disque dur extene, Carte SD) *Utile pour l'archivage*
+    * Stockage à froid (Disque dur externe, Carte SD) *Utile pour l'archivage*
     
 ---
 
@@ -124,7 +124,7 @@ _color: #fff
 
 ### Combien de temps garder les sauvegardes :
 * Le plus longtemps possible
-* Selon ancienneté et nature du site, une sauvegarde mensuelle peût-être suffisante
+* Selon ancienneté et nature du site, une sauvegarde mensuelle peut-être suffisante
 
 ---
 
@@ -145,7 +145,7 @@ _color: #fff
 ### Recette de la parfaite sauvegarde :
 * Automatisé : *Un script ou une extension fait le job pour vous*
 * Stockage externe : *vos sauvegardes sont toujours accessibles*
-* *Facultatif* : Un chiffrement peut-ête appliqué pour améliorer la sécurité de vos sauvegardes
+* *Facultatif* : Un chiffrement peut-être appliqué pour améliorer la sécurité de vos sauvegardes
 
     
 ---

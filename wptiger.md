@@ -32,11 +32,11 @@ _color: #fff
 -->
 
 ### WPTiger permet :
-* De voir en un clin d'oeil, les infos de son site WP
+* De voir en un clin d’œil, les infos de son site WP
 * La gestion des utilisateurs (MdP, Rôle, créer un nouveau compte ...)
-* Gestion des extensions (Activation/Désactivation, Supression)
-* Sécurité avec les régles *htaccess* et des *snippets*
-* Sauvegarde et clône du site
+* Gestion des extensions (Activation/Désactivation, Suppression)
+* Sécurité avec les règles *htaccess* et des *snippets*
+* Sauvegarde et clone du site
 * Gestion du SSL
 * Créer une pré-production & Actions avancées sur la BDD
 ---
